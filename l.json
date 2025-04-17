@@ -1,0 +1,28 @@
+{
+  "copilot": {
+    "name": "ExemploCopilot",
+    "description": "Bot de exemplo com tópicos personalizados e GenAI",
+    "topics": [
+      {
+        "name": "TopicoPersonalizado",
+        "triggerPhrases": ["ajuda", "preciso de ajuda"],
+        "actions": [
+          {
+            "type": "SendMessage",
+            "message": "Olá! Como posso ajudar você hoje?"
+          }
+        ],
+        "errorHandling": {
+          "fallbackMessage": "Desculpe, não entendi. Pode reformular sua pergunta?"
+        }
+      }
+    ],
+    "genAI": {
+      "enabled": true,
+      "responseQualityControl": {
+        "minLevel": "Low",
+        "maxLevel": "High"
+      }
+    }
+  }
+}
