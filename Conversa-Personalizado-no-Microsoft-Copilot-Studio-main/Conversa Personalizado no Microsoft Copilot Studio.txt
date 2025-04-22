@@ -1,0 +1,23 @@
+Resumo do que aprendi
+----------------------
+O Microsoft Copilot Studio é uma plataforma robusta que permite criar agentes de IA personalizados para atender a diferentes necessidades. Existem três abordagens principais para criar um Copiloto:
+
+1. Copilot baseado em modelo:
+   - Oferece modelos prontos para cenários comuns.
+   - Ideal para quem busca agilidade na criação inicial.
+   - Pode ser customizado conforme as necessidades do projeto.
+
+2. Copilot baseado em descrição com IA:
+   - Permite descrever o que o agente deve fazer, e a IA gera automaticamente os tópicos e fluxos de conversa.
+   - Reduz o esforço manual e acelera o processo de criação.
+   - Excelente para expandir rapidamente as capacidades do Copilot.
+
+3. Copilot criado em branco:
+   - Dá total liberdade para definir fluxos e funcionalidades desde o início.
+   - Ideal para soluções altamente específicas e personalizadas.
+   - Requer mais tempo e conhecimento técnico, mas oferece maior controle.
+
+Considerações Finais
+---------------------
+Cada abordagem tem suas vantagens e pode ser escolhida conforme os objetivos e recursos disponíveis. Compreender essas opções foi essencial para criar um Copiloto eficaz, adaptado ao cenário proposto.
+
